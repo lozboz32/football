@@ -13,7 +13,7 @@
     "react-dom": "18.3.1",
     "@supabase/supabase-js": "^2.39.3",
     "stripe": "^13.10.0",
-    "resend": "^1.2.0"
+    "resend": "1.1.1"
   },
   "devDependencies": {
     "eslint": "^8.57.0"
